@@ -35,23 +35,9 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gulmira1990&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gulmira1990&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=gulmira1990&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
