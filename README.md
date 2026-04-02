@@ -54,7 +54,7 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="mailto:ilyasovagulmira08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
