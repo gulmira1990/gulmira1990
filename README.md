@@ -37,8 +37,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulmira1990&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulmira1990&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gulmira1990&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulmira1990&layout=compact&theme=tokyonight" />
 </p>
 
 ---
