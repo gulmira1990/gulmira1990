@@ -53,11 +53,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:ilyasovagulmira08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ilyasovagulmira08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
-
 ---
 
 ## 💡 Fun Fact
