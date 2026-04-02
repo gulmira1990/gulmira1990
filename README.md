@@ -37,8 +37,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulmira1990&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulmira1990&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gulmira1990&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -52,7 +51,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gulmira1990&theme=tokyonight&row=1&column=6" />
+ <img src="https://github-profile-trophy.vercel.app/?username=gulmira1990&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
